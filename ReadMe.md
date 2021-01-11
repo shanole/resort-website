@@ -20,11 +20,11 @@ _This is just a static website for a resort._
 
 _This project includes the following webpages:_
 
-* _[Accomodations](https://shanole.github.io/resort-website/accomodations.html)
-* _[Activities](https://shanole.github.io/resort-website/activities.html)
-* _[Contact Information](https://shanole.github.io/resort-website/contact.html)
-* _[Pictures](https://shanole.github.io/resort-website/pictures.html)
-* _[Travel Arrangements](https://shanole.github.io/resort-website/travelarrangements.html)
+* [Accomodations](https://shanole.github.io/resort-website/accomodations.html)
+* [Activities](https://shanole.github.io/resort-website/activities.html)
+* [Contact Information](https://shanole.github.io/resort-website/contact.html)
+* [Pictures](https://shanole.github.io/resort-website/pictures.html)
+* [Travel Arrangements](https://shanole.github.io/resort-website/travelarrangements.html)
 
 
 ## Known Bugs
